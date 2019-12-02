@@ -11,7 +11,7 @@ Then you can take any or all of these `.zs` files and put them in ./minecraft/sc
 
 ## What the scripts do
 
- - **moarSignsRandomThingsCompat.zs** (requires [MoarSigns](https://www.curseforge.com/minecraft/mc-mods/moarsigns)) : adds a recipe to change a MoarSigns' `<Wood> Sign` into a vanilla `sign`, so it can be used in recipes that require a vanilla `Sign` such as RandomThings' `Floo Sign`
+ - **moarSignsRandomThingsCompat.zs** (requires [MoarSigns](https://www.curseforge.com/minecraft/mc-mods/moarsigns)) : adds a recipe to change a MoarSigns' `<Wood> Sign` into a vanilla `Sign`, so it can be used in recipes that require a vanilla `Sign` such as RandomThings' `Floo Sign`
 
 
  - **zombiesDropLeather.zs** : changes zombies so they have a 70% chance to drop `Rotten Flesh` and also a 70% chance to drop `Leather`
